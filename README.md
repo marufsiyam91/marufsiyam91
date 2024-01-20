@@ -58,6 +58,6 @@ Passionate about turning imaginative designs into seamless and responsive user i
 
 
 ### Top Repositories
-[Repository 1](link_to_repo_1) | [Repository 2](link_to_repo_2) | [Repository 3](link_to_repo_3)
+[Repository 1]([link_to_repo_1](https://github.com/marufsiyam91/Task_manager)) | [Repository 2]([link_to_repo_2](https://github.com/marufsiyam91/Halal-Jibika-web)https://github.com/marufsiyam91/Halal-Jibika-web)
 
 

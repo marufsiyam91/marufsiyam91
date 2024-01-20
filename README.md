@@ -11,7 +11,7 @@ Passionate about turning imaginative designs into seamless and responsive user i
 
 <br/>
 <br/>
-<br/>
+
 
 <h3 align='center'>Skills</h3>
 <p align="center">
@@ -24,14 +24,10 @@ Passionate about turning imaginative designs into seamless and responsive user i
 </p>
 
 <br/>
-<br/>
 
 
 <h3 align='center'>Connect with me</h3>
 <p align="center">
-  <a href="https://www.facebook.com/maruf.siyam.351" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-  </a>
   <a href="https://github.com/marufsiyam91" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
@@ -40,7 +36,6 @@ Passionate about turning imaginative designs into seamless and responsive user i
   </a>
 </p>
 
-<br/>
 <br/>
 
 

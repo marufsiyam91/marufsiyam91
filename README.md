@@ -31,8 +31,29 @@ Passionate about turning imaginative designs into seamless and responsive user i
   </a>
 </p>
 
+
+
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marufsiyam91&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+
+
+<h3 align="center">My Statistics:</h3>
+<hr/>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marufsiyam91&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marufsiyam91&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marufsiyam91&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 
 

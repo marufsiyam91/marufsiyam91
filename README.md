@@ -1,9 +1,10 @@
 <div align='center'>
 <h1>Hi 👋, I'm Maruf Siyam</h1>
 
-## Frontend Developer 🚀
+## Frontend Developer 🚀 <br/> <h3>Passionate about turning imaginative designs into seamless and responsive user interfaces.</h3>
 
-Passionate about turning imaginative designs into seamless and responsive user interfaces.
+
+
 
 <p>🌍 Based in Dhaka, Bangladesh</p>
 <p>🧠 Learning Frontend development</p>

@@ -1,15 +1,20 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maruf Siyam
+<div align='center'>
+<h1>Hi 👋, I'm Maruf Siyam</h1>
 
 ## Frontend Developer 🚀
 
 Passionate about turning imaginative designs into seamless and responsive user interfaces.
 
-- 🌍 Based in Dhaka, Bangladesh
-- ✉️ Contact me at [marufsiyam9123@gmail.com](mailto:marufsiyam9123@gmail.com)
-- 🧠 Learning Frontend development
+<p>🌍 Based in Dhaka, Bangladesh</p>
+<p>🧠 Learning Frontend development</p>
+</div>
 
-### Skills
-<p align="left">
+<br/>
+<br/>
+<br/>
+
+<h3 align='center'>Skills</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -18,8 +23,12 @@ Passionate about turning imaginative designs into seamless and responsive user i
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 </p>
 
-### Socials
-<p align="left">
+<br/>
+<br/>
+
+
+<h3 align='center'>Connect with me</h3>
+<p align="center">
   <a href="https://www.facebook.com/maruf.siyam.351" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a>
@@ -31,12 +40,13 @@ Passionate about turning imaginative designs into seamless and responsive user i
   </a>
 </p>
 
+<br/>
+<br/>
 
 
-### GitHub Stats
 
 
-<h3 align="center">My Statistics:</h3>
+<h3 align="center">Github Stats</h3>
 <hr/>
 <p align="center">
 <table align="center">
@@ -54,10 +64,4 @@ Passionate about turning imaginative designs into seamless and responsive user i
   </td>
 </tr>
 </table>
-
-
-
-### Top Repositories
-[Repository 1]([link_to_repo_1](https://github.com/marufsiyam91/Task_manager)) | [Repository 2]([link_to_repo_2](https://github.com/marufsiyam91/Halal-Jibika-web)https://github.com/marufsiyam91/Halal-Jibika-web)
-
 
